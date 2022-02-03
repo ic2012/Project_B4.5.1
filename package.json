@@ -1,0 +1,19 @@
+{
+  "name": "ic2012package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ic2012/Project_B4.2.7.git"
+  },
+  "author": "Pavel Vinogradov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ic2012/Project_B4.2.7/issues"
+  },
+  "homepage": "https://github.com/ic2012/Project_B4.2.7#readme"
+}
